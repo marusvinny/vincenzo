@@ -1,8 +1,8 @@
 # vincenzo
 ### hi there 
 ## about me 
-#I still not understand many thing and i think i never going to know enougth thing so i try all the things they keep me busy
-##I know i litle coding in different languige c++ HTML  javascript php so i can make my own web page dinamicly
+#I still not understand many things and problby i think i never going too but i know enougth things so i keep me busy 
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
@@ -13,3 +13,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+
+
+| Rank | Languages  |
+|-----:|------------|
+|     1| JavaScript |
+|     2| Php        |
+|     3| SQL        |
+|     4|Visual Basic|
+|     5|C++         |
